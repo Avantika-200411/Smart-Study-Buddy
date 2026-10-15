@@ -1,0 +1,14 @@
+
+.venv/
+__pycache__/
+*.py[cod]
+__pycache__.zip
+build/
+.vscode/
+.env
+.streamlit/secrets.toml
+users.json
+study_history.json
+study_goals.json
+mood_log.csv
+profile_pics/
